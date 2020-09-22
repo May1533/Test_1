@@ -1,0 +1,24 @@
+<html>
+    <head>
+  <meta charset="utf-8">
+  <title>Page2</title>
+  <style>
+   .thumb img  {
+    border: 2px solid #55c5e9; /* Рамка вокруг фотографии /
+    padding: 15px; / Расстояние от картинки до рамки /
+    background: #73B1F4; / Цвет фона /
+    margin-right: 10px; / Отступ справа /
+    margin-bottom: 10px; / Отступ снизу */
+   }
+  </style>
+    </head>
+<body>
+    <p class="thumb">
+       <a href="https://mguu.ru/%22%3E<img src="1.jpg" alt="УНИВЕРСИТЕТ" width="300" height="300">
+       <a href="https://moeobrazovanie.ru/mguu/?ratings%22%3E<img src="2.jpg" alt="РЕЙТИНГ СТУДЕНТОВ" width="200" height="200">
+       <a href="https://mguu.ru/undergraduate/kafedry/kafedra-sotsialno-gumanitarnyh-distsiplin/%22%3E<img src="3.jpg" alt="ВЫПУСКАЮЩАЯ КАФЕДРА" width="150" height="150">
+    </p>
+</br>
+    <TR><TD><A HREF="Page3.HTML">Третий документ</A></TD>
+</body>
+</html>
