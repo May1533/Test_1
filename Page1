@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Page1</title>
+</head>
+<body>
+<H1 align="center"><font color="Yellow" face="Arial">MGUU</H1></font>
+<p align="right" >State higher educational institution in Moscow. The University was established by the Government of Moscow in 1994 on the basis of the Academy of National Economy of the Russian Federation as a "higher school". In 2004 she was awarded the status of a "university". The main direction - training, advanced training and retraining of management personnel of city and municipal government<H2 
+align="center"><font color="blue" face="Arial">Pages</H2></font>
+
+<ol>
+ <li>Первая страница</li>
+ <li>Вторая страница</li>
+ <li>Третья страница</li>
+</ol>
+
+<H3 align="center"><font color="green" face="Arial">Marked list</H3></font>
+<ul>
+  <li><font color="red">Красный</li></font>
+  <li><font color="Orange">Оранжевый</li></font>
+  <li><font color="Yellow">Желтый</li></font>
+  <li><font color="Green">Зеленый</li></font>
+  <li><font color="Blue">Голубой</li></font>
+  <li><font color="Indigo">Синий</li></font>
+  <li><font color="Violet">Фиолетовый</li></font>
+</ul>
+
+<H4 align="center"><font color="red" face="Arial">Fonts</H4></font>
+<br><b>Жирный</b></br>
+<br><i>Курсив</i></br>
+</br><b>Обычный</b></br>
+</br><TR><TD><A HREF="Page2.HTML">Второй документ</A></TD>
+ </body>
+
+</html>
